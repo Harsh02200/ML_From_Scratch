@@ -7,11 +7,7 @@
 
 <p align="center">
   <img src=<iframe src="https://assets.pinterest.com/ext/embed.html?id=464011567855854640" height="565" width="600" frameborder="0" scrolling="no" 
-<img align="right" alt="Analytics Vibes" height="400" width="400" src="https://i.pinimg.com/originals/f6/1d/bd/f61dbd5a042774ed6e8b8a8752c2d3d7.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Harsh02200&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh02200" />
-</p>
+<img align="right" alt="Analytics Vibes" height="400" width="400" src="https://i.pinimg.com/originals/f6/1d/bd/f61dbd5a042774ed6e8b8a8752c2d3d7.gif"
 
 ---
 
