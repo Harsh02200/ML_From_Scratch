@@ -8,7 +8,7 @@
 <img align="right" alt="Data Guy" height="400" width="400" src="https://i.pinimg.com/originals/f6/1d/bd/f61dbd5a042774ed6e8b8a8752c2d3d7.gif">
 
 <p align="left">
-  <img src=https://in.pinterest.com/pin/2040762327903241/"Harsh02200" />
+  <img https://i.pinimg.com/originals/4a/60/d3/4a60d3a279a2be43102b35aa3beef440.gif/"Harsh02200" />
 </p>
 
 - 🔍 Currently exploring **Business Analytics and Fintech Applications**
