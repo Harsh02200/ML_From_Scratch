@@ -6,8 +6,14 @@
 <h3 align="center">Aspiring Data & Business Analyst | SQL • Python • Power BI • Tableau • R</h3>
 
 <p align="center">
-  <img src=<iframe src="https://assets.pinterest.com/ext/embed.html?id=464011567855854640" height="565" width="600" frameborder="0" scrolling="no" 
-<img align="right" alt="Analytics Vibes" height="400" width="400" src="https://i.pinimg.com/originals/f6/1d/bd/f61dbd5a042774ed6e8b8a8752c2d3d7.gif"
+  <img src="https://i.pinimg.com/originals/d0/48/f3/d048f3197f9c6a19f9fa5db6e53b6b15.gif" alt="Focused Developer" width="800">
+</p>
+
+<img align="right" alt="Analytics Vibes" height="400" width="400" src="https://i.pinimg.com/originals/f6/1d/bd/f61dbd5a042774ed6e8b8a8752c2d3d7.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Harsh02200&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh02200" />
+</p>
 
 ---
 
@@ -74,5 +80,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=Harsh02200&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-
