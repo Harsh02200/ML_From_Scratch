@@ -8,7 +8,7 @@
 <img align="right" alt="Data Guy" height="400" width="400" src="https://i.pinimg.com/originals/f6/1d/bd/f61dbd5a042774ed6e8b8a8752c2d3d7.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Harsh02200&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh02200" />
+  <img src="https://in.pinterest.com/pin/130252614217756331/alt="Harsh02200" />
 </p>
 
 - 🔍 Currently exploring **Business Analytics and Fintech Applications**
